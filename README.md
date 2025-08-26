@@ -1,4 +1,4 @@
-## Hi I'm Zainab - Sunshines01 👋
+## I'm Zainab - Sunshines01 👋
 
 ## Find me on:
 [LinkedIn](https://www.linkedin.com/in/zainab-ahmed-57a059330/)
