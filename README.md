@@ -1,8 +1,18 @@
+<div align="Center">
+
 ## I'm Zainab - Sunshines01 👋
 
+</div>
+
+<div align="Center">
+  
 ## Find me on:
 [LinkedIn](https://www.linkedin.com/in/zainab-ahmed-57a059330/)
 
+</div>
+
+<div align="Center">
+ 
 ## Languages and tools:
 
 ### Programming Languages
@@ -14,7 +24,7 @@
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" width="40" height="40"/>
 </div>
-
+  
 ### Applications
 <div style="display: flex; align-items: center; gap: 8px; flex-wrap: nowrap; overflow-x: auto;">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" width="40" height="40"/>
@@ -23,3 +33,14 @@
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="VS Code" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pycharm.png" alt="PyCharm" width="40" height="40"/>
 </div>
+
+</div>
+
+<div align="Center">
+  
+# Contribution snake
+
+![snake gif](https://github.com/Sunshines01/Sunshines01/blob/output/github-snake-dark.svg)
+
+</div>
+
